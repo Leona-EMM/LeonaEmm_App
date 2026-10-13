@@ -1,7 +1,7 @@
 {
-  "name": "LeonaEmm",
-  "bio": "Leona Emm Beauty LLC",
-  "contactEmail": "leona.emmbeauty@gmail.com",
+  "name": "BASE Creator",
+  "bio": "",
+  "contactEmail": "Place Email",
   "contactLabel": "Email",
   "backgroundColor": "#000000",
   "background": {
@@ -12,8 +12,8 @@
   "heroMedia": {
     "enabled": true,
     "type": "image",
-    "url": "./media/hero-image-1791858900886.png",
-    "animation": "float"
+    "url": "./media/hero-image-1791859226255.png",
+    "animation": "none"
   },
   "chime": {
     "enabled": false,
