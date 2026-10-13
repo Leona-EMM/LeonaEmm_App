@@ -32,7 +32,12 @@
     "watch_url": "",
     "description": ""
   },
-  "links": [],
+  "links": [
+    {
+      "label": "📸 Instagram",
+      "url": "https://www.instagram.com/leonaemm?utm_source=ig_web_button_share_sheet&rpxt=ZDNlZDc0MzIxNw=="
+    }
+  ],
   "mediaGateway": {
     "enabled": true,
     "collections": [
@@ -64,7 +69,19 @@
     },
     "externalMedia": []
   },
-  "supporters": [],
+  "supporters": [
+    {
+      "id": "supporter-1791919071730-8443c08e76a08",
+      "type": "supporter",
+      "name": "Voyagebaltimore",
+      "tagline": "",
+      "description": "",
+      "thumbnail": "./media/supporter-supporter-1791919071730-8443c08e76a08-1791919090358.jpg",
+      "url": "https://voyagebaltimore.com/interview/meet-leona-wilson-of-upper-marlboro/",
+      "buttonText": "Go!",
+      "enabled": true
+    }
+  ],
   "community": {
     "enabled": false,
     "provider": "custom",
