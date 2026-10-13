@@ -1,8 +1,8 @@
 {
-  "name": "BASE Creator",
-  "bio": "",
-  "contactEmail": "Place Email",
-  "contactLabel": "Email",
+  "name": "LeonaEmm",
+  "bio": "Leona Emm Beauty LLC",
+  "contactEmail": "leona.emmbeauty@gmail.com",
+  "contactLabel": "Contact",
   "backgroundColor": "#000000",
   "background": {
     "enabled": true,
@@ -20,7 +20,7 @@
     "url": "",
     "volume": 0.65
   },
-  "pillColor": "#000000",
+  "pillColor": "#b92d5d",
   "innerSurface": {
     "style": "default",
     "color": "",
