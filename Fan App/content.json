@@ -7,7 +7,7 @@
   "background": {
     "enabled": true,
     "type": "image",
-    "url": "./media/background-image-1791858635008.png"
+    "url": "./media/background-image-1791918610277.png"
   },
   "heroMedia": {
     "enabled": true,
@@ -16,8 +16,8 @@
     "animation": "none"
   },
   "chime": {
-    "enabled": false,
-    "url": "",
+    "enabled": true,
+    "url": "./media/chime-1791918616626.mp3",
     "volume": 0.65
   },
   "pillColor": "#b92d5d",
@@ -34,12 +34,26 @@
   },
   "links": [],
   "mediaGateway": {
-    "enabled": false,
+    "enabled": true,
     "collections": [
       {
         "id": "collection-1783820011390-b6c047e8c036d8",
         "title": "Add Media",
         "items": []
+      },
+      {
+        "id": "collection-1791917745307-7ca7ba562ac2b",
+        "title": "Biography",
+        "items": [
+          {
+            "id": "item-1791917845642-caa82e4ce7f37",
+            "title": "Bio",
+            "description": "",
+            "thumbnail": "./media/thumb-item-1791917845642-caa82e4ce7f37-1791918627585.png",
+            "url": "./media/media-item-1791917845642-caa82e4ce7f37-1791918618566.png",
+            "access": "public"
+          }
+        ]
       }
     ],
     "presentation": {
