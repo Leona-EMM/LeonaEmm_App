@@ -85,11 +85,11 @@
   "community": {
     "enabled": false,
     "provider": "custom",
-    "name": "",
-    "icon": "",
+    "name": "The Glamour Bar",
+    "icon": "./media/community-icon-1792507083599.png",
     "buttonText": "Enter Community",
     "url": "",
-    "embed": ""
+    "embed": "https://organizations.minnit.chat/671278557423340/c/Main?embed&app"
   },
   "analytics": {
     "enabled": false,
