@@ -83,7 +83,7 @@
     }
   ],
   "community": {
-    "enabled": false,
+    "enabled": true,
     "provider": "custom",
     "name": "The Glamour Bar",
     "icon": "./media/community-icon-1792507083599.png",
